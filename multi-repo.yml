@@ -8,7 +8,7 @@ resources:
   - repository: "lkillgore/multirepopublic"
     type: github
     endpoint: "lkillgore"
-    name: lkillgore/multirepomultirepopublic
+    name: lkillgore/multirepopublic
     
 trigger:
 - master
