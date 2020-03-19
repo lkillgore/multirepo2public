@@ -1,1 +1,1 @@
-# multirepo2public
+# multi-repo2-public
